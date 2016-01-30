@@ -32,6 +32,10 @@ img {
   width: 100%;
 }
 
+img:active{
+  border-radius: 999px;
+  border: 1px inset blue;
+}
 
 /*Stles for Value Tooltip*/
 
