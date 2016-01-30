@@ -25,6 +25,7 @@ End Result:
 1.Range Slider with Value on Tooltip which shows on Mouse Over. 
 2.Functioning Plus and Minus Options. 
 
+Live View: https://plnkr.co/Lo3i63RZSYfLEQ44EAFH 
 Unable to Implement: 
 Values on Thumb of the Range Slider. 
 
